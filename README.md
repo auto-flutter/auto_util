@@ -10,7 +10,7 @@ pip install auto_util  #(3.7>=python>=3.4)
 
 ## Usage
 ```
-auto_util match --help
+$ auto_util match --help
 ```
 ```
 Usage: auto_util match [OPTIONS]
