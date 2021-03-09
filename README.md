@@ -5,7 +5,7 @@ A command line tool for image matching.
 ## Installation
 
 ```
-pip install auto_util  #(3.7>=python>=3.4)
+$ pip install auto_util  #(3.7>=python>=3.4)
 ```
 
 ## Usage
