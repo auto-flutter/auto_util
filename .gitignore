@@ -1,0 +1,23 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+auto_util.egg-info
+dist/
+build/
+venv/
+auto.egg-info

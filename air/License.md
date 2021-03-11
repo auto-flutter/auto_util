@@ -1,0 +1,1 @@
+See [Airtest](https://github.com/AirtestProject/Airtest/blob/master/LICENSE)
