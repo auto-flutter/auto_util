@@ -6,10 +6,13 @@ A command line tool for image matching.
 
 ```
 $ pip install auto_util  #(3.7>=python>=3.4)
+
+$ auto_util version
+0.0.1
 ```
 
 ## Usage
-```
+```shell
 $ auto_util match --help
 ```
 ```
